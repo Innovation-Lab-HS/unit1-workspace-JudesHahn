@@ -1,1 +1,8 @@
+class Helloworld{
+// all ocde in Java sits inside a class 
 
+// every Java program needs a public area main method
+public static void main(String[] args) {
+System.out.println("Hello");
+ }
+}
