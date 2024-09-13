@@ -3,6 +3,7 @@ class Helloworld{
 
 // every Java program needs a public area main method
 public static void main(String[] args) {
+// for the next while, All code you write will live here, inside main ()
 System.out.println("Hello");
  }
 }
